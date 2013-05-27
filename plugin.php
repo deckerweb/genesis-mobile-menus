@@ -7,6 +7,8 @@
   Author: Nick_theGeek
   Author URI: http://DesignsByNicktheGeek.com
   Description: Add mobile menu to Genesis child themes
+  Text Domain: gmm
+  Domain Path: /languages/
  */
 
 /*
